@@ -1,6 +1,7 @@
 Update Data JavaFX
 
-Project Structure
+Project Structure:
+
 src/main/java/com/example/updatedatajavafx
 HelloApplication.java
 HelloController.java
