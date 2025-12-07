@@ -23,9 +23,9 @@ public class HelloController {
         colEmail.setCellValueFactory(data -> new javafx.beans.property.SimpleStringProperty(data.getValue().getEmail()));
 
         users.addAll(
-                new User("dan", "dan@email.com"),
-                new User("dan casimero", "danny@email.com"),
-                new User("sample", "dasd@email.com")
+                new User("levi", "levi@gmail.com"),
+                new User("mikasa ackerman", "mikasa@gmail.com"),
+                new User("sample", "sample@gmail.com")
         );
 
         table.setItems(users);
